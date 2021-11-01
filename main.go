@@ -19,7 +19,7 @@ import (
 func init() {
 	flag.Usage = func() {
 		h := []string{
-			"Download Comic Books from zipcomic.com(concurrent with 2 Threads by default)",
+			"Download Comic Books from zipcomic.com(concurrent with 2 goroutines by default)",
 			"",
 			"Usage:",
 			"  zipcomic -u 'https://zipcomimic.com/comicbook_title'",
