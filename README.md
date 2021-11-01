@@ -7,13 +7,13 @@
 
 ### From Binary
 
-Download the pre-built binaries for different platforms from the [releases](https://github.com/kavishgr/tempomail/releases/) page. Extract them using tar, move it to your `$PATH` and you're ready to go.
+Download the pre-built binaries for different platforms from the [releases](https://github.com/kavishgr/ZipComic-Downloader/releases) page. Extract them using tar, move it to your `$PATH` and you're ready to go.
 
 ```sh
-▶ # download release from https://github.com/kavishgr/?????????/releases/
-▶ tar -xzvf linux-amd64-tempomail.tgz
-▶ mv tempomail /usr/local/bin/
-▶ tempomail -h
+▶ # download release from https://github.com/kavishgr/https://github.com/kavishgr/ZipComic-Downloader/releases/
+▶ tar -xzvf linux-amd64-gozipcomic.tgz
+▶ mv gozipcomic /usr/local/bin/
+▶ gozipcomic -h
 ```
 
 ## Usage
