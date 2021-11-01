@@ -31,7 +31,7 @@ func init() {
 			"  -d, -dir <string> Change directory(should already be available)",
 			"\tzipcomic -u 'https://zipcomimic.com/comicbook_title' -d '/directory'",
 			"",
-			"  -c, -concurrency <int> Number of Threads",
+			"  -c, -concurrency <int> Number of goroutines",
 			"",
 			"  -r, -range <string> Specify a Range",
 			"\tzipcomic -u 'https://zipcomimic.com/comicbook_title' -r '5:10'\n",
