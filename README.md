@@ -9,6 +9,8 @@
 
 Download the pre-built binaries for different platforms from the [releases](https://github.com/kavishgr/ZipComic-Downloader/releases) page. Extract them using tar, move it to your `$PATH` and you're ready to go.
 
+> Did not test on Windows
+
 ```sh
 ▶ # download release from https://github.com/kavishgr/https://github.com/kavishgr/ZipComic-Downloader/releases/
 ▶ tar -xzvf linux-amd64-gozipcomic.tgz
