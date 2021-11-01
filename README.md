@@ -1,3 +1,5 @@
 # ZipComic-Downloader
 
-> For educational purposes
+> Wrote this tool to learn Go
+
+......
