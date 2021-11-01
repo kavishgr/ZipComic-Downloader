@@ -32,7 +32,7 @@ gozipcomic -u "https://www.zipcomic.com/a-lucky-luke-adventure"
 gozipcomic -u "https://www.zipcomic.com/a-lucky-luke-adventure" -r '1:10'
 ```
 
-* **Change directory(should already be available)**
+* **Change directory(directory should already be available)**
 
 ```
 gozipcomic -u "https://www.zipcomic.com/a-lucky-luke-adventure" -d '/mydir'
