@@ -1,6 +1,6 @@
 # ZipComic-Downloader
 
-> Learning Go
+> Learning Go. Use at your own risk!
 
 
 ## Installation
