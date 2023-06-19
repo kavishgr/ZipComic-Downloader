@@ -1,6 +1,6 @@
 # ZipComic-Downloader
 
-> Learning Go. Use at your own risk!
+> For Learning Purposes. Use at your own risk!
 
 
 ## Installation
